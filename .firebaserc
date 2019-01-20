@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "webcomponents-io": {
+      "hosting": {
+        "ion-icon": [
+          "ion-icon"
+        ]
+      }
+    }
+  }
+}
